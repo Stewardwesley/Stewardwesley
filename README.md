@@ -26,6 +26,6 @@ Over the past year, I’ve self-taught data analysis through hands-on projects, 
 
 ## 🔗 Let’s Connect
 
-- 📫 [Email](mailto:your-email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) *(replace with your real LinkedIn URL)*
+- 📫 [Email](steward.wesley56@gmail.com)
+- 💼 [LinkedIn](www.linkedin.com/in/steward-wesley-9a7093261) 
 - 🌐 Portfolio: Coming Soon!
